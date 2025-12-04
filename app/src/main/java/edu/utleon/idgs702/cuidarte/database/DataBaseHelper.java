@@ -1,4 +1,4 @@
-package edu.utleon.idgs702.cuidarte;
+package edu.utleon.idgs702.cuidarte.database;
 
 import android.content.Context;
 import android.database.sqlite.SQLiteDatabase;
