@@ -43,7 +43,7 @@
 
     </com.google.android.material.textfield.TextInputLayout>
 
-    <!-- PIN de seguridad (4 dígitos) -->
+    <!-- PIN de seguridad (4 dígitos11) -->
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
